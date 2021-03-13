@@ -88,5 +88,4 @@ async def ban(ctx, user:discord.Member):
     
 
 
-
-client.run('ODE0ODIzMTAwMDU5MzUzMDg4.YDjdJQ.q_aRRrw5yunOJxawuST-80vF0dg')
+client.run(os.environ['token'])
