@@ -1,1 +1,1 @@
-worker : python ban.py
+worker: python ban.py
